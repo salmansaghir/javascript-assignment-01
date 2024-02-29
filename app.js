@@ -10,6 +10,7 @@
 //alert("Happy Coding!");
 //Q5:
 //console.log("Hello... i can run JS through my web browser's console");
+//Q6:
 
 //........Chapter-02..........
 //Q1:
